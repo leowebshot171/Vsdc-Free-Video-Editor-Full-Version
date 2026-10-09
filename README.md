@@ -236,4 +236,4 @@ This repository serves as the official landing page for VSDC Free Video Editor. 
 **Get the most recent version of VSDC Free Video Editor today!**
 
 ---
-**Last updated:** 2026-10-08 22:57:08 UTC
+**Last updated:** 2026-10-09 02:51:12 UTC
